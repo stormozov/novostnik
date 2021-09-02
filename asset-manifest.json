@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/novostnik/static/css/main.f1de0c02.chunk.css",
+    "main.js": "/novostnik/static/js/main.748a0806.chunk.js",
+    "main.js.map": "/novostnik/static/js/main.748a0806.chunk.js.map",
+    "runtime-main.js": "/novostnik/static/js/runtime-main.7028a304.js",
+    "runtime-main.js.map": "/novostnik/static/js/runtime-main.7028a304.js.map",
+    "static/js/2.35baa5b4.chunk.js": "/novostnik/static/js/2.35baa5b4.chunk.js",
+    "static/js/2.35baa5b4.chunk.js.map": "/novostnik/static/js/2.35baa5b4.chunk.js.map",
+    "static/js/3.b0ab7262.chunk.js": "/novostnik/static/js/3.b0ab7262.chunk.js",
+    "static/js/3.b0ab7262.chunk.js.map": "/novostnik/static/js/3.b0ab7262.chunk.js.map",
+    "index.html": "/novostnik/index.html",
+    "static/css/main.f1de0c02.chunk.css.map": "/novostnik/static/css/main.f1de0c02.chunk.css.map",
+    "static/js/2.35baa5b4.chunk.js.LICENSE.txt": "/novostnik/static/js/2.35baa5b4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/novostnik/static/media/ProximaNovaCond-Bold.d392494f.eot",
+    "static/media/me.55ffcf45.webp": "/novostnik/static/media/me.55ffcf45.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7028a304.js",
+    "static/js/2.35baa5b4.chunk.js",
+    "static/css/main.f1de0c02.chunk.css",
+    "static/js/main.748a0806.chunk.js"
+  ]
+}
